@@ -1,0 +1,196 @@
+Node_ID,Solid,Node_Type,Node_Index,Position_X,Position_Y,Position_Z,CRV_Name,CRV_Value,CRV_Symbol,CRV_Type,Is_Known_Constant,Realm,Wavelength_nm,Frequency_Hz,Description
+1,tetrahedron,vertex,0,0.347026,0.250000,0.850000,pi,3.141593,pi,primary_constant,True,quantum,300.0,3.142e+12,Primary mathematical constant pi
+2,tetrahedron,vertex,1,0.807638,0.789801,0.810199,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,quantum,300.0,1.942e+12,Pi divided by golden ratio
+3,tetrahedron,vertex,2,0.763309,0.306642,0.293358,e,2.718282,e,primary_constant,True,quantum,300.0,2.718e+12,Primary mathematical constant e
+4,tetrahedron,vertex,3,0.255948,0.850000,0.250000,tau,6.283185,tau,primary_constant,True,quantum,300.0,6.283e+12,Primary mathematical constant tau
+5,tetrahedron,edge,0,0.363309,0.506642,0.493358,e,2.718282,e,primary_constant,True,quantum,300.0,2.718e+12,Primary mathematical constant e
+6,tetrahedron,edge,1,0.724161,0.607261,0.392739,e_div_phi,1.679991,e/phi,transcendental_compound,True,quantum,300.0,1.680e+12,Euler number divided by golden ratio
+7,tetrahedron,edge,2,0.307638,0.389801,0.610199,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,quantum,300.0,1.942e+12,Pi divided by golden ratio
+8,tetrahedron,edge,3,0.489369,0.668844,0.331156,tau_phi,19.565104,tau^phi,transcendental_compound,True,quantum,300.0,1.957e+13,Tau raised to the power of golden ratio
+9,tetrahedron,edge,4,0.677694,0.532631,0.467369,zeta_3,1.202057,ζ(3),number_theory_constant,True,quantum,300.0,1.202e+12,Apéry's constant (zeta function at 3)
+10,tetrahedron,edge,5,0.375723,0.320720,0.679280,catalan,0.915966,G,number_theory_constant,True,quantum,300.0,9.160e+11,Catalan's constant
+11,tetrahedron,face,0,0.397026,0.000000,1.000000,pi,3.141593,pi,primary_constant,True,quantum,300.0,3.142e+12,Primary mathematical constant pi
+12,tetrahedron,face,1,0.113309,0.256642,0.743358,e,2.718282,e,primary_constant,True,quantum,300.0,2.718e+12,Primary mathematical constant e
+13,tetrahedron,face,2,0.571895,0.056056,0.943944,phi,1.618034,phi,primary_constant,True,quantum,300.0,1.618e+12,Primary mathematical constant phi
+14,tetrahedron,face,3,0.205948,1.000000,0.000000,tau,6.283185,tau,primary_constant,True,quantum,300.0,6.283e+12,Primary mathematical constant tau
+15,cube,vertex,0,0.500000,0.500000,0.716529,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,electromagnetic,550.0,7.924e+14,Tau multiplied by e raised to pi
+16,cube,vertex,1,0.500000,-0.500000,0.869162,pi_e,22.459158,pi^e,transcendental_compound,True,electromagnetic,550.0,1.224e+14,Pi raised to the power of e
+17,cube,vertex,2,0.500000,-0.500000,0.762793,phi_tau,20.564023,phi^tau,transcendental_compound,True,electromagnetic,550.0,1.121e+14,Golden ratio raised to the power of tau
+18,cube,vertex,3,-0.500000,-0.500000,0.826021,e_phi,5.043166,e^phi,potential_new_constant,False,electromagnetic,550.0,2.749e+13,Euler number raised to the power of golden ratio
+19,cube,vertex,4,0.500000,-0.500000,0.879784,tau_pi,321.777750,tau^pi,potential_new_constant,False,electromagnetic,550.0,1.754e+15,Tau raised to the power of pi
+20,cube,vertex,5,0.500000,0.500000,0.725068,pi_pi,36.462159,pi^pi,potential_new_constant,False,electromagnetic,550.0,1.987e+14,Pi raised to the power of pi
+21,cube,vertex,6,-0.500000,0.500000,0.876387,e_tau,535.491656,e^tau,potential_new_constant,False,electromagnetic,550.0,2.918e+15,Euler number raised to the power of tau
+22,cube,vertex,7,-0.500000,-0.500000,0.764448,phi_e,3.699025,phi^e,transcendental_compound,True,electromagnetic,550.0,2.016e+13,Golden ratio raised to the power of e
+23,cube,edge,0,0.688982,0.230838,0.769162,pi_e,22.459158,pi^e,transcendental_compound,True,electromagnetic,550.0,1.224e+14,Pi raised to the power of e
+24,cube,edge,1,0.566211,0.983471,0.016529,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,electromagnetic,550.0,7.924e+14,Tau multiplied by e raised to pi
+25,cube,edge,2,0.502580,0.037207,0.962793,phi_tau,20.564023,phi^tau,transcendental_compound,True,electromagnetic,550.0,1.121e+14,Golden ratio raised to the power of tau
+26,cube,edge,3,0.177525,0.273979,0.726021,e_phi,5.043166,e^phi,potential_new_constant,False,electromagnetic,550.0,2.749e+13,Euler number raised to the power of golden ratio
+27,cube,edge,4,0.683761,0.220216,0.779784,tau_pi,321.777750,tau^pi,potential_new_constant,False,electromagnetic,550.0,1.754e+15,Tau raised to the power of pi
+28,cube,edge,5,0.946043,0.974932,0.025068,pi_pi,36.462159,pi^pi,potential_new_constant,False,electromagnetic,550.0,1.987e+14,Pi raised to the power of pi
+29,cube,edge,6,0.063537,0.823613,0.176387,e_tau,535.491656,e^tau,potential_new_constant,False,electromagnetic,550.0,2.918e+15,Euler number raised to the power of tau
+30,cube,edge,7,0.411260,0.035552,0.964448,phi_e,3.699025,phi^e,transcendental_compound,True,electromagnetic,550.0,2.016e+13,Golden ratio raised to the power of e
+31,cube,edge,8,0.427694,0.282631,0.717369,zeta_3,1.202057,ζ(3),number_theory_constant,True,electromagnetic,550.0,6.551e+12,Apéry's constant (zeta function at 3)
+32,cube,edge,9,0.125723,0.070720,0.929280,catalan,0.915966,G,number_theory_constant,True,electromagnetic,550.0,4.992e+12,Catalan's constant
+33,cube,edge,10,0.397026,0.000000,1.000000,pi,3.141593,pi,primary_constant,True,electromagnetic,550.0,1.712e+13,Primary mathematical constant pi
+34,cube,edge,11,0.113309,0.256642,0.743358,e,2.718282,e,primary_constant,True,electromagnetic,550.0,1.481e+13,Primary mathematical constant e
+35,cube,face,0,0.500000,-0.500000,0.500000,pi_e,22.459158,pi^e,transcendental_compound,True,electromagnetic,550.0,1.224e+14,Pi raised to the power of e
+36,cube,face,1,0.500000,0.500000,-0.500000,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,electromagnetic,550.0,7.924e+14,Tau multiplied by e raised to pi
+37,cube,face,2,0.500000,-0.500000,0.500000,phi_tau,20.564023,phi^tau,transcendental_compound,True,electromagnetic,550.0,1.121e+14,Golden ratio raised to the power of tau
+38,cube,face,3,-0.500000,-0.500000,0.500000,e_phi,5.043166,e^phi,potential_new_constant,False,electromagnetic,550.0,2.749e+13,Euler number raised to the power of golden ratio
+39,cube,face,4,0.500000,-0.500000,0.500000,tau_pi,321.777750,tau^pi,potential_new_constant,False,electromagnetic,550.0,1.754e+15,Tau raised to the power of pi
+40,cube,face,5,0.500000,0.500000,-0.500000,pi_pi,36.462159,pi^pi,potential_new_constant,False,electromagnetic,550.0,1.987e+14,Pi raised to the power of pi
+41,octahedron,vertex,0,0.000000,0.000000,1.000000,catalan,0.915966,G,number_theory_constant,True,gravitational,1000.0,0.314,Catalan's constant
+42,octahedron,vertex,1,0.000000,0.000000,1.000000,zeta_3,1.202057,ζ(3),number_theory_constant,True,gravitational,1000.0,0.412,Apéry's constant (zeta function at 3)
+43,octahedron,vertex,2,0.000000,0.000000,1.000000,e_div_phi,1.679991,e/phi,transcendental_compound,True,gravitational,1000.0,0.576,Euler number divided by golden ratio
+44,octahedron,vertex,3,0.000000,0.000000,1.000000,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,gravitational,1000.0,0.666,Pi divided by golden ratio
+45,octahedron,vertex,4,0.000000,0.000000,-1.000000,tau_phi,19.565104,tau^phi,transcendental_compound,True,gravitational,1000.0,6.710,Tau raised to the power of golden ratio
+46,octahedron,vertex,5,0.000000,0.000000,1.000000,phi_e,3.699025,phi^e,transcendental_compound,True,gravitational,1000.0,1.269,Golden ratio raised to the power of e
+47,octahedron,edge,0,0.000000,-0.500000,0.500000,zeta_3,1.202057,ζ(3),number_theory_constant,True,gravitational,1000.0,0.412,Apéry's constant (zeta function at 3)
+48,octahedron,edge,1,0.000000,-0.500000,0.500000,catalan,0.915966,G,number_theory_constant,True,gravitational,1000.0,0.314,Catalan's constant
+49,octahedron,edge,2,0.000000,-0.500000,0.500000,e_div_phi,1.679991,e/phi,transcendental_compound,True,gravitational,1000.0,0.576,Euler number divided by golden ratio
+50,octahedron,edge,3,0.000000,-0.500000,0.500000,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,gravitational,1000.0,0.666,Pi divided by golden ratio
+51,octahedron,edge,4,0.000000,0.500000,0.500000,tau_phi,19.565104,tau^phi,transcendental_compound,True,gravitational,1000.0,6.710,Tau raised to the power of golden ratio
+52,octahedron,edge,5,0.000000,-0.500000,0.500000,phi_e,3.699025,phi^e,transcendental_compound,True,gravitational,1000.0,1.269,Golden ratio raised to the power of e
+53,octahedron,edge,6,0.000000,-0.500000,0.500000,pi,3.141593,pi,primary_constant,True,gravitational,1000.0,1.078,Primary mathematical constant pi
+54,octahedron,edge,7,0.000000,-0.500000,0.500000,e,2.718282,e,primary_constant,True,gravitational,1000.0,0.932,Primary mathematical constant e
+55,octahedron,edge,8,0.000000,-0.500000,0.500000,phi,1.618034,phi,primary_constant,True,gravitational,1000.0,0.555,Primary mathematical constant phi
+56,octahedron,edge,9,0.000000,0.500000,0.500000,tau,6.283185,tau,primary_constant,True,gravitational,1000.0,2.155,Primary mathematical constant tau
+57,octahedron,edge,10,0.000000,-0.500000,0.500000,pi_e,22.459158,pi^e,transcendental_compound,True,gravitational,1000.0,7.703,Pi raised to the power of e
+58,octahedron,edge,11,0.000000,0.500000,0.500000,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,gravitational,1000.0,49.88,Tau multiplied by e raised to pi
+59,octahedron,face,0,0.427694,0.282631,0.717369,zeta_3,1.202057,ζ(3),number_theory_constant,True,gravitational,1000.0,0.412,Apéry's constant (zeta function at 3)
+60,octahedron,face,1,0.125723,0.070720,0.929280,catalan,0.915966,G,number_theory_constant,True,gravitational,1000.0,0.314,Catalan's constant
+61,octahedron,face,2,0.974161,0.357261,0.642739,e_div_phi,1.679991,e/phi,transcendental_compound,True,gravitational,1000.0,0.576,Euler number divided by golden ratio
+62,octahedron,face,3,0.057638,0.139801,0.860199,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,gravitational,1000.0,0.666,Pi divided by golden ratio
+63,octahedron,face,4,0.739369,0.918844,0.081156,tau_phi,19.565104,tau^phi,transcendental_compound,True,gravitational,1000.0,6.710,Tau raised to the power of golden ratio
+64,octahedron,face,5,0.411260,0.035552,0.964448,phi_e,3.699025,phi^e,transcendental_compound,True,gravitational,1000.0,1.269,Golden ratio raised to the power of e
+65,octahedron,face,6,0.147026,0.750000,0.350000,khinchin,2.685452,K,number_theory_constant,True,gravitational,1000.0,0.921,Khinchin's constant
+66,octahedron,face,7,0.863309,0.756642,0.243358,glaisher,1.282427,A,number_theory_constant,True,gravitational,1000.0,0.440,Glaisher-Kinkelin constant
+67,dodecahedron,vertex,0,0.618034,0.618034,0.525731,phi,1.618034,phi,primary_constant,True,biological,10000.0,1.618e+11,Primary mathematical constant phi
+68,dodecahedron,vertex,1,0.618034,0.618034,0.546194,phi_e,4.113250,phi^e,transcendental_compound,True,biological,10000.0,4.113e+11,Golden ratio raised to the power of e
+69,dodecahedron,vertex,2,0.618034,0.618034,0.567213,phi_tau,20.564023,phi^tau,transcendental_compound,True,biological,10000.0,2.056e+12,Golden ratio raised to the power of tau
+70,dodecahedron,vertex,3,0.618034,0.618034,0.588789,tau_phi,19.565104,tau^phi,transcendental_compound,True,biological,10000.0,1.957e+12,Tau raised to the power of golden ratio
+71,dodecahedron,vertex,4,0.618034,0.618034,0.611423,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,biological,10000.0,1.942e+11,Pi divided by golden ratio
+72,dodecahedron,vertex,5,0.618034,0.618034,0.635217,e_div_phi,1.679991,e/phi,transcendental_compound,True,biological,10000.0,1.680e+11,Euler number divided by golden ratio
+73,dodecahedron,vertex,6,0.618034,0.618034,0.660274,phi_pi,4.532360,phi^pi,transcendental_compound,True,biological,10000.0,4.532e+11,Golden ratio raised to the power of pi
+74,dodecahedron,vertex,7,0.618034,0.618034,0.686700,phi_sqrt_2,2.058171,phi^√2,transcendental_compound,True,biological,10000.0,2.058e+11,Golden ratio raised to the power of square root of 2
+75,dodecahedron,vertex,8,0.618034,0.618034,0.714607,phi_sqrt_3,2.236068,phi^√3,transcendental_compound,True,biological,10000.0,2.236e+11,Golden ratio raised to the power of square root of 3
+76,dodecahedron,vertex,9,0.618034,0.618034,0.744115,phi_sqrt_5,2.618034,phi^√5,transcendental_compound,True,biological,10000.0,2.618e+11,Golden ratio raised to the power of square root of 5
+77,dodecahedron,vertex,10,0.618034,0.618034,0.775352,phi_ln_2,1.272020,phi^ln(2),transcendental_compound,True,biological,10000.0,1.272e+11,Golden ratio raised to the power of natural log of 2
+78,dodecahedron,vertex,11,0.618034,0.618034,0.808456,gamma,0.577216,γ,number_theory_constant,True,biological,10000.0,5.772e+10,Euler-Mascheroni constant
+79,dodecahedron,vertex,12,0.618034,0.618034,0.843574,sqrt_2,1.414214,√2,algebraic_constant,True,biological,10000.0,1.414e+11,Square root of 2
+80,dodecahedron,vertex,13,0.618034,0.618034,0.880863,sqrt_3,1.732051,√3,algebraic_constant,True,biological,10000.0,1.732e+11,Square root of 3
+81,dodecahedron,vertex,14,0.618034,0.618034,0.920491,sqrt_5,2.236068,√5,algebraic_constant,True,biological,10000.0,2.236e+11,Square root of 5
+82,dodecahedron,vertex,15,0.618034,0.618034,0.962640,ln_2,0.693147,ln(2),transcendental_constant,True,biological,10000.0,6.931e+10,Natural logarithm of 2
+83,dodecahedron,vertex,16,0.618034,0.618034,1.007503,rydberg,1.097373e+07,R∞,physical_constant,True,biological,10000.0,1.097e+18,Rydberg constant
+84,dodecahedron,vertex,17,0.618034,0.618034,1.055290,bohr_magneton,9.274010e-24,μB,physical_constant,True,biological,10000.0,9.274e-13,Bohr magneton
+85,dodecahedron,vertex,18,0.618034,0.618034,1.106230,nuclear_magneton,5.050784e-27,μN,physical_constant,True,biological,10000.0,5.051e-16,Nuclear magneton
+86,dodecahedron,vertex,19,0.618034,0.618034,1.160572,classical_electron_radius,2.817940e-15,re,physical_constant,True,biological,10000.0,2.818e-04,Classical electron radius
+87,dodecahedron,edge,0,0.618034,0.309017,0.951057,phi,1.618034,phi,primary_constant,True,biological,10000.0,1.618e+11,Primary mathematical constant phi
+88,dodecahedron,edge,1,0.618034,0.309017,0.951057,phi_e,4.113250,phi^e,transcendental_compound,True,biological,10000.0,4.113e+11,Golden ratio raised to the power of e
+89,dodecahedron,edge,2,0.618034,0.309017,0.951057,phi_tau,20.564023,phi^tau,transcendental_compound,True,biological,10000.0,2.056e+12,Golden ratio raised to the power of tau
+90,dodecahedron,edge,3,0.618034,0.309017,0.951057,tau_phi,19.565104,tau^phi,transcendental_compound,True,biological,10000.0,1.957e+12,Tau raised to the power of golden ratio
+91,dodecahedron,edge,4,0.618034,0.309017,0.951057,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,biological,10000.0,1.942e+11,Pi divided by golden ratio
+92,dodecahedron,edge,5,0.618034,0.309017,0.951057,e_div_phi,1.679991,e/phi,transcendental_compound,True,biological,10000.0,1.680e+11,Euler number divided by golden ratio
+93,dodecahedron,edge,6,0.618034,0.309017,0.951057,phi_pi,4.532360,phi^pi,transcendental_compound,True,biological,10000.0,4.532e+11,Golden ratio raised to the power of pi
+94,dodecahedron,edge,7,0.618034,0.309017,0.951057,phi_sqrt_2,2.058171,phi^√2,transcendental_compound,True,biological,10000.0,2.058e+11,Golden ratio raised to the power of square root of 2
+95,dodecahedron,edge,8,0.618034,0.309017,0.951057,phi_sqrt_3,2.236068,phi^√3,transcendental_compound,True,biological,10000.0,2.236e+11,Golden ratio raised to the power of square root of 3
+96,dodecahedron,edge,9,0.618034,0.309017,0.951057,phi_sqrt_5,2.618034,phi^√5,transcendental_compound,True,biological,10000.0,2.618e+11,Golden ratio raised to the power of square root of 5
+97,dodecahedron,edge,10,0.618034,0.309017,0.951057,phi_ln_2,1.272020,phi^ln(2),transcendental_compound,True,biological,10000.0,1.272e+11,Golden ratio raised to the power of natural log of 2
+98,dodecahedron,edge,11,0.618034,0.309017,0.951057,gamma,0.577216,γ,number_theory_constant,True,biological,10000.0,5.772e+10,Euler-Mascheroni constant
+99,dodecahedron,edge,12,0.618034,0.309017,0.951057,sqrt_2,1.414214,√2,algebraic_constant,True,biological,10000.0,1.414e+11,Square root of 2
+100,dodecahedron,edge,13,0.618034,0.309017,0.951057,sqrt_3,1.732051,√3,algebraic_constant,True,biological,10000.0,1.732e+11,Square root of 3
+101,dodecahedron,edge,14,0.618034,0.309017,0.951057,sqrt_5,2.236068,√5,algebraic_constant,True,biological,10000.0,2.236e+11,Square root of 5
+102,dodecahedron,edge,15,0.618034,0.309017,0.951057,ln_2,0.693147,ln(2),transcendental_constant,True,biological,10000.0,6.931e+10,Natural logarithm of 2
+103,dodecahedron,edge,16,0.618034,0.309017,0.951057,rydberg,1.097373e+07,R∞,physical_constant,True,biological,10000.0,1.097e+18,Rydberg constant
+104,dodecahedron,edge,17,0.618034,0.309017,0.951057,bohr_magneton,9.274010e-24,μB,physical_constant,True,biological,10000.0,9.274e-13,Bohr magneton
+105,dodecahedron,edge,18,0.618034,0.309017,0.951057,nuclear_magneton,5.050784e-27,μN,physical_constant,True,biological,10000.0,5.051e-16,Nuclear magneton
+106,dodecahedron,edge,19,0.618034,0.309017,0.951057,classical_electron_radius,2.817940e-15,re,physical_constant,True,biological,10000.0,2.818e-04,Classical electron radius
+107,dodecahedron,edge,20,0.618034,0.309017,0.951057,zeta_3,1.202057,ζ(3),number_theory_constant,True,biological,10000.0,1.202e+11,Apéry's constant (zeta function at 3)
+108,dodecahedron,edge,21,0.618034,0.309017,0.951057,catalan,0.915966,G,number_theory_constant,True,biological,10000.0,9.160e+10,Catalan's constant
+109,dodecahedron,edge,22,0.618034,0.309017,0.951057,pi,3.141593,pi,primary_constant,True,biological,10000.0,3.142e+11,Primary mathematical constant pi
+110,dodecahedron,edge,23,0.618034,0.309017,0.951057,e,2.718282,e,primary_constant,True,biological,10000.0,2.718e+11,Primary mathematical constant e
+111,dodecahedron,edge,24,0.618034,0.309017,0.951057,tau,6.283185,tau,primary_constant,True,biological,10000.0,6.283e+11,Primary mathematical constant tau
+112,dodecahedron,edge,25,0.618034,0.309017,0.951057,khinchin,2.685452,K,number_theory_constant,True,biological,10000.0,2.685e+11,Khinchin's constant
+113,dodecahedron,edge,26,0.618034,0.309017,0.951057,glaisher,1.282427,A,number_theory_constant,True,biological,10000.0,1.282e+11,Glaisher-Kinkelin constant
+114,dodecahedron,edge,27,0.618034,0.309017,0.951057,pi_e,22.459158,pi^e,transcendental_compound,True,biological,10000.0,2.246e+12,Pi raised to the power of e
+115,dodecahedron,edge,28,0.618034,0.309017,0.951057,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,biological,10000.0,1.454e+13,Tau multiplied by e raised to pi
+116,dodecahedron,edge,29,0.618034,0.309017,0.951057,e_phi,5.043166,e^phi,potential_new_constant,False,biological,10000.0,5.043e+11,Euler number raised to the power of golden ratio
+117,dodecahedron,face,0,0.000000,0.000000,1.000000,phi,1.618034,phi,primary_constant,True,biological,10000.0,1.618e+11,Primary mathematical constant phi
+118,dodecahedron,face,1,0.000000,0.000000,1.000000,phi_e,4.113250,phi^e,transcendental_compound,True,biological,10000.0,4.113e+11,Golden ratio raised to the power of e
+119,dodecahedron,face,2,0.000000,0.000000,1.000000,phi_tau,20.564023,phi^tau,transcendental_compound,True,biological,10000.0,2.056e+12,Golden ratio raised to the power of tau
+120,dodecahedron,face,3,0.000000,0.000000,1.000000,tau_phi,19.565104,tau^phi,transcendental_compound,True,biological,10000.0,1.957e+12,Tau raised to the power of golden ratio
+121,dodecahedron,face,4,0.000000,0.000000,1.000000,pi_div_phi,1.941611,pi/phi,transcendental_compound,True,biological,10000.0,1.942e+11,Pi divided by golden ratio
+122,dodecahedron,face,5,0.000000,0.000000,1.000000,e_div_phi,1.679991,e/phi,transcendental_compound,True,biological,10000.0,1.680e+11,Euler number divided by golden ratio
+123,dodecahedron,face,6,0.000000,0.000000,1.000000,phi_pi,4.532360,phi^pi,transcendental_compound,True,biological,10000.0,4.532e+11,Golden ratio raised to the power of pi
+124,dodecahedron,face,7,0.000000,0.000000,1.000000,phi_sqrt_2,2.058171,phi^√2,transcendental_compound,True,biological,10000.0,2.058e+11,Golden ratio raised to the power of square root of 2
+125,dodecahedron,face,8,0.000000,0.000000,1.000000,phi_sqrt_3,2.236068,phi^√3,transcendental_compound,True,biological,10000.0,2.236e+11,Golden ratio raised to the power of square root of 3
+126,dodecahedron,face,9,0.000000,0.000000,1.000000,phi_sqrt_5,2.618034,phi^√5,transcendental_compound,True,biological,10000.0,2.618e+11,Golden ratio raised to the power of square root of 5
+127,dodecahedron,face,10,0.000000,0.000000,1.000000,phi_ln_2,1.272020,phi^ln(2),transcendental_compound,True,biological,10000.0,1.272e+11,Golden ratio raised to the power of natural log of 2
+128,dodecahedron,face,11,0.000000,0.000000,1.000000,gamma,0.577216,γ,number_theory_constant,True,biological,10000.0,5.772e+10,Euler-Mascheroni constant
+129,icosahedron,vertex,0,0.000000,0.618034,0.786151,tau,6.283185,tau,primary_constant,True,cosmological,1e+15,6.283e-16,Primary mathematical constant tau
+130,icosahedron,vertex,1,0.000000,0.618034,0.786151,tau_phi,19.565104,tau^phi,transcendental_compound,True,cosmological,1e+15,1.957e-15,Tau raised to the power of golden ratio
+131,icosahedron,vertex,2,0.000000,0.618034,0.786151,tau_pi,321.777750,tau^pi,potential_new_constant,False,cosmological,1e+15,3.218e-13,Tau raised to the power of pi
+132,icosahedron,vertex,3,0.000000,0.618034,0.786151,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,cosmological,1e+15,1.454e-13,Tau multiplied by e raised to pi
+133,icosahedron,vertex,4,0.000000,0.618034,0.786151,e_tau,535.491656,e^tau,potential_new_constant,False,cosmological,1e+15,5.355e-13,Euler number raised to the power of tau
+134,icosahedron,vertex,5,0.000000,0.618034,0.786151,pi_tau,31.006277,pi^tau,transcendental_compound,True,cosmological,1e+15,3.101e-14,Pi raised to the power of tau
+135,icosahedron,vertex,6,0.000000,0.618034,0.786151,phi_tau,20.564023,phi^tau,transcendental_compound,True,cosmological,1e+15,2.056e-14,Golden ratio raised to the power of tau
+136,icosahedron,vertex,7,0.000000,0.618034,0.786151,tau_e,544.571910,tau^e,transcendental_compound,True,cosmological,1e+15,5.446e-13,Tau raised to the power of e
+137,icosahedron,vertex,8,0.000000,0.618034,0.786151,tau_sqrt_2,8.886111,tau^√2,transcendental_compound,True,cosmological,1e+15,8.886e-15,Tau raised to the power of square root of 2
+138,icosahedron,vertex,9,0.000000,0.618034,0.786151,tau_sqrt_3,10.882677,tau^√3,transcendental_compound,True,cosmological,1e+15,1.088e-14,Tau raised to the power of square root of 3
+139,icosahedron,vertex,10,0.000000,0.618034,0.786151,tau_sqrt_5,14.045155,tau^√5,transcendental_compound,True,cosmological,1e+15,1.405e-14,Tau raised to the power of square root of 5
+140,icosahedron,vertex,11,0.000000,0.618034,0.786151,tau_ln_2,4.355957,tau^ln(2),transcendental_compound,True,cosmological,1e+15,4.356e-15,Tau raised to the power of natural log of 2
+141,icosahedron,edge,0,0.309017,0.500000,0.809017,tau,6.283185,tau,primary_constant,True,cosmological,1e+15,6.283e-16,Primary mathematical constant tau
+142,icosahedron,edge,1,0.309017,0.500000,0.809017,tau_phi,19.565104,tau^phi,transcendental_compound,True,cosmological,1e+15,1.957e-15,Tau raised to the power of golden ratio
+143,icosahedron,edge,2,0.309017,0.500000,0.809017,tau_pi,321.777750,tau^pi,potential_new_constant,False,cosmological,1e+15,3.218e-13,Tau raised to the power of pi
+144,icosahedron,edge,3,0.309017,0.500000,0.809017,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,cosmological,1e+15,1.454e-13,Tau multiplied by e raised to pi
+145,icosahedron,edge,4,0.309017,0.500000,0.809017,e_tau,535.491656,e^tau,potential_new_constant,False,cosmological,1e+15,5.355e-13,Euler number raised to the power of tau
+146,icosahedron,edge,5,0.309017,0.500000,0.809017,pi_tau,31.006277,pi^tau,transcendental_compound,True,cosmological,1e+15,3.101e-14,Pi raised to the power of tau
+147,icosahedron,edge,6,0.309017,0.500000,0.809017,phi_tau,20.564023,phi^tau,transcendental_compound,True,cosmological,1e+15,2.056e-14,Golden ratio raised to the power of tau
+148,icosahedron,edge,7,0.309017,0.500000,0.809017,tau_e,544.571910,tau^e,transcendental_compound,True,cosmological,1e+15,5.446e-13,Tau raised to the power of e
+149,icosahedron,edge,8,0.309017,0.500000,0.809017,tau_sqrt_2,8.886111,tau^√2,transcendental_compound,True,cosmological,1e+15,8.886e-15,Tau raised to the power of square root of 2
+150,icosahedron,edge,9,0.309017,0.500000,0.809017,tau_sqrt_3,10.882677,tau^√3,transcendental_compound,True,cosmological,1e+15,1.088e-14,Tau raised to the power of square root of 3
+151,icosahedron,edge,10,0.309017,0.500000,0.809017,tau_sqrt_5,14.045155,tau^√5,transcendental_compound,True,cosmological,1e+15,1.405e-14,Tau raised to the power of square root of 5
+152,icosahedron,edge,11,0.309017,0.500000,0.809017,tau_ln_2,4.355957,tau^ln(2),transcendental_compound,True,cosmological,1e+15,4.356e-15,Tau raised to the power of natural log of 2
+153,icosahedron,edge,12,0.309017,0.500000,0.809017,pi,3.141593,pi,primary_constant,True,cosmological,1e+15,3.142e-15,Primary mathematical constant pi
+154,icosahedron,edge,13,0.309017,0.500000,0.809017,e,2.718282,e,primary_constant,True,cosmological,1e+15,2.718e-15,Primary mathematical constant e
+155,icosahedron,edge,14,0.309017,0.500000,0.809017,phi,1.618034,phi,primary_constant,True,cosmological,1e+15,1.618e-15,Primary mathematical constant phi
+156,icosahedron,edge,15,0.309017,0.500000,0.809017,zeta_3,1.202057,ζ(3),number_theory_constant,True,cosmological,1e+15,1.202e-15,Apéry's constant (zeta function at 3)
+157,icosahedron,edge,16,0.309017,0.500000,0.809017,catalan,0.915966,G,number_theory_constant,True,cosmological,1e+15,9.160e-16,Catalan's constant
+158,icosahedron,edge,17,0.309017,0.500000,0.809017,khinchin,2.685452,K,number_theory_constant,True,cosmological,1e+15,2.685e-15,Khinchin's constant
+159,icosahedron,edge,18,0.309017,0.500000,0.809017,glaisher,1.282427,A,number_theory_constant,True,cosmological,1e+15,1.282e-15,Glaisher-Kinkelin constant
+160,icosahedron,edge,19,0.309017,0.500000,0.809017,gamma,0.577216,γ,number_theory_constant,True,cosmological,1e+15,5.772e-16,Euler-Mascheroni constant
+161,icosahedron,edge,20,0.309017,0.500000,0.809017,sqrt_2,1.414214,√2,algebraic_constant,True,cosmological,1e+15,1.414e-15,Square root of 2
+162,icosahedron,edge,21,0.309017,0.500000,0.809017,sqrt_3,1.732051,√3,algebraic_constant,True,cosmological,1e+15,1.732e-15,Square root of 3
+163,icosahedron,edge,22,0.309017,0.500000,0.809017,sqrt_5,2.236068,√5,algebraic_constant,True,cosmological,1e+15,2.236e-15,Square root of 5
+164,icosahedron,edge,23,0.309017,0.500000,0.809017,ln_2,0.693147,ln(2),transcendental_constant,True,cosmological,1e+15,6.931e-16,Natural logarithm of 2
+165,icosahedron,edge,24,0.309017,0.500000,0.809017,rydberg,1.097373e+07,R∞,physical_constant,True,cosmological,1e+15,1.097e+22,Rydberg constant
+166,icosahedron,edge,25,0.309017,0.500000,0.809017,bohr_magneton,9.274010e-24,μB,physical_constant,True,cosmological,1e+15,9.274e-39,Bohr magneton
+167,icosahedron,edge,26,0.309017,0.500000,0.809017,nuclear_magneton,5.050784e-27,μN,physical_constant,True,cosmological,1e+15,5.051e-42,Nuclear magneton
+168,icosahedron,edge,27,0.309017,0.500000,0.809017,classical_electron_radius,2.817940e-15,re,physical_constant,True,cosmological,1e+15,2.818e-30,Classical electron radius
+169,icosahedron,edge,28,0.309017,0.500000,0.809017,pi_e,22.459158,pi^e,transcendental_compound,True,cosmological,1e+15,2.246e-14,Pi raised to the power of e
+170,icosahedron,edge,29,0.309017,0.500000,0.809017,e_phi,5.043166,e^phi,potential_new_constant,False,cosmological,1e+15,5.043e-15,Euler number raised to the power of golden ratio
+171,icosahedron,face,0,0.688982,0.230838,0.769162,tau,6.283185,tau,primary_constant,True,cosmological,1e+15,6.283e-16,Primary mathematical constant tau
+172,icosahedron,face,1,0.566211,0.983471,0.016529,tau_phi,19.565104,tau^phi,transcendental_compound,True,cosmological,1e+15,1.957e-15,Tau raised to the power of golden ratio
+173,icosahedron,face,2,0.502580,0.037207,0.962793,tau_pi,321.777750,tau^pi,potential_new_constant,False,cosmological,1e+15,3.218e-13,Tau raised to the power of pi
+174,icosahedron,face,3,0.177525,0.273979,0.726021,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,cosmological,1e+15,1.454e-13,Tau multiplied by e raised to pi
+175,icosahedron,face,4,0.683761,0.220216,0.779784,e_tau,535.491656,e^tau,potential_new_constant,False,cosmological,1e+15,5.355e-13,Euler number raised to the power of tau
+176,icosahedron,face,5,0.946043,0.974932,0.025068,pi_tau,31.006277,pi^tau,transcendental_compound,True,cosmological,1e+15,3.101e-14,Pi raised to the power of tau
+177,icosahedron,face,6,0.063537,0.823613,0.176387,phi_tau,20.564023,phi^tau,transcendental_compound,True,cosmological,1e+15,2.056e-14,Golden ratio raised to the power of tau
+178,icosahedron,face,7,0.411260,0.035552,0.964448,tau_e,544.571910,tau^e,transcendental_compound,True,cosmological,1e+15,5.446e-13,Tau raised to the power of e
+179,icosahedron,face,8,0.427694,0.282631,0.717369,tau_sqrt_2,8.886111,tau^√2,transcendental_compound,True,cosmological,1e+15,8.886e-15,Tau raised to the power of square root of 2
+180,icosahedron,face,9,0.125723,0.070720,0.929280,tau_sqrt_3,10.882677,tau^√3,transcendental_compound,True,cosmological,1e+15,1.088e-14,Tau raised to the power of square root of 3
+181,icosahedron,face,10,0.397026,0.000000,1.000000,tau_sqrt_5,14.045155,tau^√5,transcendental_compound,True,cosmological,1e+15,1.405e-14,Tau raised to the power of square root of 5
+182,icosahedron,face,11,0.113309,0.256642,0.743358,tau_ln_2,4.355957,tau^ln(2),transcendental_compound,True,cosmological,1e+15,4.356e-15,Tau raised to the power of natural log of 2
+183,icosahedron,face,12,0.571895,0.056056,0.943944,pi,3.141593,pi,primary_constant,True,cosmological,1e+15,3.142e-15,Primary mathematical constant pi
+184,icosahedron,face,13,0.205948,1.000000,0.000000,e,2.718282,e,primary_constant,True,cosmological,1e+15,2.718e-15,Primary mathematical constant e
+185,icosahedron,face,14,0.974161,0.357261,0.642739,phi,1.618034,phi,primary_constant,True,cosmological,1e+15,1.618e-15,Primary mathematical constant phi
+186,icosahedron,face,15,0.057638,0.139801,0.860199,zeta_3,1.202057,ζ(3),number_theory_constant,True,cosmological,1e+15,1.202e-15,Apéry's constant (zeta function at 3)
+187,icosahedron,face,16,0.739369,0.918844,0.081156,catalan,0.915966,G,number_theory_constant,True,cosmological,1e+15,9.160e-16,Catalan's constant
+188,icosahedron,face,17,0.411260,0.035552,0.964448,khinchin,2.685452,K,number_theory_constant,True,cosmological,1e+15,2.685e-15,Khinchin's constant
+189,icosahedron,face,18,0.147026,0.750000,0.350000,glaisher,1.282427,A,number_theory_constant,True,cosmological,1e+15,1.282e-15,Glaisher-Kinkelin constant
+190,icosahedron,face,19,0.863309,0.756642,0.243358,pi_e,22.459158,pi^e,transcendental_compound,True,cosmological,1e+15,2.246e-14,Pi raised to the power of e
+191,intersection,cross_realm,0,0.500000,0.618000,0.382000,tau_mul_e_pi,145.397260,tau*e^pi,transcendental_compound,True,cross_realm,580.0,7.924e+14,Cross-realm intersection: Tau multiplied by e raised to pi
+192,intersection,cross_realm,1,0.500000,0.618000,0.382000,phi_tau,20.564023,phi^tau,transcendental_compound,True,cross_realm,580.0,1.121e+14,Cross-realm intersection: Golden ratio raised to the power of tau
+193,intersection,cross_realm,2,0.500000,0.618000,0.382000,pi_e,22.459158,pi^e,transcendental_compound,True,cross_realm,580.0,1.224e+14,Cross-realm intersection: Pi raised to the power of e
+194,intersection,cross_realm,3,0.500000,0.618000,0.382000,e_phi,5.043166,e^phi,potential_new_constant,False,cross_realm,580.0,2.749e+13,Cross-realm intersection: Euler number raised to the power of golden ratio
+
